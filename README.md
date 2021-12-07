@@ -1,6 +1,6 @@
-<div style="float: left; position: relative;">
-    <img border="0" width="100%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/5GpD.gif" height="175px"/>
-    <img style="position: absolute; top: 0; right: 0;" border="0" width="50%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif" height="175px"/>
+<div style="background-image:url(https://github.com/Sachin-251/Sachin-251/blob/main/5GpD.gif);">
+    <div style="position: relative; left: 0; top: 0;">
+    <img style="position: relative; left: 0; top: 0;" border="0" width="50%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif" height="175px"/></div>
 </div>
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin</h1>
