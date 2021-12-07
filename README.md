@@ -1,4 +1,4 @@
-<img style="display: block; margin-left: auto; margin-right: auto; width: 50%; text-align:center;" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif"/>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 40%; text-align:center;" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
