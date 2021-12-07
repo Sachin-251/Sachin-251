@@ -1,6 +1,6 @@
 <div style="position: relative;top: 0; left: 0;">
-    <img style=" position: relative; top: 0; left: 0; border: 1px solid #000000;" width="100%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/5GpD.gif" height="175px"/>
-    <img style="top: 30px; left: 30px; transform: translate(20%, -200%);" border="0" width="50%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif" height="175px"/></div>
+    <img  border="0" width="50%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif" height="175px"/>
+</div>
 
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin</h1>
