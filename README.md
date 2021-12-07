@@ -1,4 +1,4 @@
-<img style="position: absolute; top: 25px; left: 25px; z-index: 1;" width="100%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/5GpD.gif" height="175px"/><img style="position: absolute; top: 25px; left: 25px; z-index: 3;" width="50%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif" height="175px"/>
+<img style="float: left; position: relative;" width="100%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/5GpD.gif" height="175px"/><img style="position: absolute; top: 0; right: 0;" width="50%" height="auto" src="https://github.com/Sachin-251/Sachin-251/blob/main/3F3F.gif" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
