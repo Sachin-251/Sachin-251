@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Python AI Applications]**
+- 🔭 I’m currently working on **Data Structures and Algorithm using Java**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Web Based Projects**
 
