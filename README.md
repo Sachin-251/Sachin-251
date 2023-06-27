@@ -4,20 +4,20 @@
 
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sachin</h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h3 align="center">A MERN Stack Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Data Structures and Algorithm using Java**
+- 🔭 I’m currently working on **MERN STACK DEVELOPMENT**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning about **Different libraries of ReactJS**
 
-- 👯 I’m looking to collaborate on **Web Based Projects**
+- 👯 I’m looking to collaborate on **ReactJS Based Projects**
 
 - 📫 How to reach me **sachin.251@outlook.com**
 
-- ⚡ Fun fact **I play cricket and love classic rock music.**
+- ⚡ Fun fact **I love REACT-ing on new and emerging technologies.**
 
 ## 🚀 Languages and Tools:
 
