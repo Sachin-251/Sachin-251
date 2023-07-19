@@ -23,9 +23,10 @@
 
 <p align="left">
     <a href="https://react.dev/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
-    <a href="https://www.java.com" target="_blank"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> </a>
     <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> </a>
+    <a href="https://www.java.com" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
