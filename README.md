@@ -22,7 +22,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://www.java.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/> </a>
+    <a href="https://react.dev/" style="width:20px;" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
