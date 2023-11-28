@@ -26,6 +26,7 @@
     <a href="https://nodejs.org/en" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> </a>
     <a href="https://expressjs.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> </a>
     <a href="https://www.ecma-international.org/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
